@@ -217,7 +217,7 @@
       }
 
       function button_handler(extension) {
-        let cancel = !confirm("After hitting OK, there will be a 5 second delay until the extension starts being frozen. Switch to another tab immediately to prevent the entire device from locking up. If your Computer locks, press the Power Button Plus Refresh Button at the same time.);
+        let cancel = !confirm("After hitting OK, there will be a 5 second delay until the extension starts being frozen. Switch to another tab immediately to prevent the entire device from locking up. If your Computer locks, press the Power Button Plus Refresh Button at the same time.");
         if (cancel) return;
         
         setTimeout(() => {
