@@ -14,6 +14,6 @@ On the Lightspeed Filter Agent Disabler, click the "freeze extension" button. Im
 
 Back on the chrome://extensions page, spam the "allow access to file URLs" switch for a few seconds.
 
-The extension should now be temporarily disabled. For this effect to persist, flip the "allow access to file URLs" again every few minutes, or if pages start getting blocked again.
+The extension should now be temporarily disabled. For this effect to persist, flip the "allow access to file URLs" again every few minutes, if pages start getting blocked again, or if it says cannot connect to server/proxy.
 
 You may also need to reopen this page every once in a while to prevent an unavoidable memory leak from crashing the system.
