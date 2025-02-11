@@ -4,7 +4,9 @@
 
 Make sure you have the latest release of the Lightspeed Filter Agent Disabler from the github.
 ![image](https://github.com/user-attachments/assets/ac2bf1c9-fbdf-4320-80f8-a48f820a6b58)
+
 If you want you can download the beta. THere is bugs but beta is newer/cooler, but less stable
+
 ![image](https://github.com/user-attachments/assets/04cadddc-dcc2-4ee6-a659-7a3181167dc0)
 
 Open the .zip and open the " Lightspeed Filter Agent Disabler.html of your choice, there is themes so pick your favorite.
